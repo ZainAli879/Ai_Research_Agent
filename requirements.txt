@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain
+langgraph
+langchain-community
+langchain-groq
+langchain-core
+arxiv
+wikipedia
+tavily-python
+typing-extensions
