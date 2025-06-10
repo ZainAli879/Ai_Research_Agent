@@ -25,8 +25,8 @@ You ask a question — it finds the answer from real sources!
 ### 1. Clone this Project
 
 ```bash
-git clone https://github.com/your-username/ai-research-agent.git
-cd ai-research-agent
+git clone https://github.com/ZainAli879/Ai_Research_Agent.git
+cd Ai_Research_Agent.py
 ````
 
 ### 2. (Optional) Create a Virtual Environment
@@ -54,7 +54,7 @@ TAVILY_API_KEY=your_tavily_api_key
 ### 5. Run the App
 
 ```bash
-streamlit run app.py
+streamlit run Ai_Research_Agent.py
 ```
 
 Then go to the link it shows (usually [http://localhost:8501](http://localhost:8501)) to use the chatbot!
